@@ -1,0 +1,13 @@
+﻿title: Villager_2
+tags:
+---
+
+Player: I think I might be sick. 
+Mae: Wow, this looks [shake]spooky[/shake]!
+Player: True.
+<<shake>> 
+Villager: True.
+Mae: Wow, this looks [emotion type=angry]spooky[/emotion]. 
+Mae: WAIT, this looks [wait amount=2]spooky[/wait].
+Mae: WAIT, this text [size amount=2]is big[/size].
+===

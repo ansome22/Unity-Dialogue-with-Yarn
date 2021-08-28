@@ -1,0 +1,12 @@
+language,id,text,file,node,lineNumber,lock,comment
+en,line:0bf3f95,Player: I think I might be sick.,Assets/Yarn/Convo/Villager 2.yarn,Villager_2,5,3fbf1d93,
+en,line:0b27b37,"Mae: Wow, this looks [shake]spooky[/shake]!",Assets/Yarn/Convo/Villager 2.yarn,Villager_2,6,456ece98,
+en,line:0ff1a12,Player: True.,Assets/Yarn/Convo/Villager 2.yarn,Villager_2,7,b5568e5c,
+en,line:047db3d,Villager: True.,Assets/Yarn/Convo/Villager 2.yarn,Villager_2,9,952ea8c8,
+en,line:0ff5ac7,"Mae: Wow, this looks [emotion type=angry]spooky[/emotion].",Assets/Yarn/Convo/Villager 2.yarn,Villager_2,10,4413cf8f,
+en,line:07263d4,"Mae: WAIT, this looks [wait amount=2]spooky[/wait].",Assets/Yarn/Convo/Villager 2.yarn,Villager_2,11,f666bce0,
+en,line:012d966,"Mae: WAIT, this text [size amount=2]is big[/size].",Assets/Yarn/Convo/Villager 2.yarn,Villager_2,12,905cda93,
+en,line:0155649,Player: I think I might be sick.,Assets/Yarn/Convo/Villager1.yarn,Villager,5,3fbf1d93,
+en,line:0a2d853,Villager: True friendship: Letting your friend make you sick.,Assets/Yarn/Convo/Villager1.yarn,Villager,6,c2ff29cb,
+en,line:0b2026d,Player: True bros.,Assets/Yarn/Convo/Villager1.yarn,Villager,7,1d716e40,
+en,line:029140c,Villager: True bros.,Assets/Yarn/Convo/Villager1.yarn,Villager,8,5cc90bff,
